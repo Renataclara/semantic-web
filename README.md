@@ -1,1 +1,1 @@
-# semantic-web
+# sematic-web
